@@ -1,0 +1,11 @@
+## Crypto
+
+P(ai)^3
+
+[EASY / MEDIUM]
+
+
+Pai-ai-ai... My Paillier scheme seems to be broken and I stored my favourite flag in it. Please help me get it back, will you? Who could have guessed this would ever happen? ... Me... I- I wrote it... yeah.
+
+
+DOCKER NEEDED? - YES, Py with pycryptodome

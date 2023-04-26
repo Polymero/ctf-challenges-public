@@ -1,0 +1,12 @@
+# Hadis Paide
+
+Cryptography -- Easy
+
+Time to play a classic kids game, 'hot and cold'.
+You can send me (almost) whatever you want, and I will tell you whether or not you get closer to my flag!
+
+`nc address port`
+
+files: [hadispaide.py](link)
+
+By Polymero ~

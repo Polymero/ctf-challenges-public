@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+{% block body %}
+
+  <div class="center">
+
+    <div style="min-height: 20vh;">
+    </div>
+
+    <form action="" method="post">
+
+      <input type="text" placeholder="Username" name="username" value="{{ request.form.username }}">
+      <br>
+
+      <input type="password" placeholder="Password" name="password" value="{{ request.form.password }}">
+      <br>
+      <br>
+
+      <input class="btn btn-default" type="submit" value="Huff in">
+
+    </form>
+
+    <br>
+
+    Need an account? <a href="./register">Register here.</a>
+
+  </div>
+
+{% endblock %}

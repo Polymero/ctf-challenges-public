@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+{% block body %}
+
+  <div class="center">
+
+    <div style="min-height: 20vh;">
+    </div>
+
+    REGISTRATION FORM
+    <br>
+    <br>
+    <br>
+
+    <form action="" method="post">
+
+      <input type="text" placeholder="Username" name="username" value="{{ request.form.username }}">
+      <br>
+      <br>
+      <br>
+
+      <input type="password" placeholder="Password" name="password_1" value="{{ request.form.password_1 }}">
+      <br>
+
+      <input type="password" placeholder="Confirm password" name="password_2" value="{{ request.form.password_2 }}">
+      <br>
+      <br>
+      <br>
+
+      <input class="btn btn-default" type="submit" value="Register">
+
+    </form>
+
+  </div>
+
+{% endblock %}

@@ -1,0 +1,13 @@
+# RSA-OOPS
+
+Cryptography -- MEDIUM
+
+RSA-OAEP was too confusing for me so I created my own RSA Original Optimal Padding Scheme (RSA-OOPS)!
+
+`nc address port`
+
+files: [rsaoops.py](link)
+
+By Polymero ~
+
+
