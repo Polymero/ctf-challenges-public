@@ -1,0 +1,6 @@
+version: '3'
+services:
+  python:
+    build: .
+    ports:
+      - 1337:5000
