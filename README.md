@@ -19,6 +19,30 @@ In need of Crypto challenges for your CTF? [Get in touch](https://www.sebven.com
 ## 2023
 
 
+### BlackHat MEA CTF 2023 Finals
+
+| Challenge | Category | Type | Primitive | Difficulty[^1] | Docker | Solves | Writeup |
+| --------- | -------- | ---- | --------- | -------------- | ------ | ------ | ------- |
+| **Cicero** | Crypto | TOY | Vigenere | ★★, ★★★ | Python | ? | NyA |
+| **Jzhnmipi Gqffcf Hmppwfv** | Crypto | IMP | RSA | ★, ★★ | Python | ? | NyA |
+| **Denied** | Crypto | IMP | Schnorr | ★★, ★★★ | Python | ? | NyA |
+| **Tapa Shasha** | Crypto | IMP | PSS | ★★★, ★★ | Python | ? | NyA |
+| **Lunch when?** | Crypto | TOY | SPN | ★★★, ★★★★ | Python | ? | NyA |
+| **PolyCert** | Crypto | IMP | RSA-SSA | ★★, ★★★★★ | Python | ? | NyA |
+| **Ping Pong** | Crypto | TOY | AAA | ★★★★, ★★★★ | Python | ? | NyA |
+| **Joyko** | Crypto | IMP | AAA | ★★★(★★), ★★★ | Python | ? | NyA |
+
+
+
+### BlackHat MEA CTF 2023 Quals
+
+| Challenge | Category | Type | Primitive | Difficulty[^1] | Docker | Solves | Writeup |
+| --------- | -------- | ---- | --------- | -------------- | ------ | ------ | ------- |
+| **Octopodal** | Crypto | IMP | DLOG | ★, ★ | Python | ? | NyA |
+| **Acceptance** | Crypto | IMP | Schnorr | ★, ★ | Python | ? | NyA |
+| **Sulfur** | Crypto | TOY | ECC, Knapsack | ★, ★ | Python | ? | NyA |
+
+
 
 ### CyberHub CTF 2023
 
