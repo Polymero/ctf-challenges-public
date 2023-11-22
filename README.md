@@ -29,8 +29,8 @@ In need of Crypto challenges for your CTF? [Get in touch](https://www.sebven.com
 | **Tapa Shasha** | Crypto | IMP | PSS | ★★★, ★★ | Python | ? | NyA |
 | **Lunch when?** | Crypto | TOY | SPN | ★★★, ★★★★ | Python | ? | NyA |
 | **PolyCert** | Crypto | IMP | RSA-SSA | ★★, ★★★★★ | Python | ? | NyA |
-| **Ping Pong** | Crypto | TOY | AAA | ★★★★, ★★★★ | Python | ? | NyA |
-| **Joyko** | Crypto | IMP | AAA | ★★★(★★), ★★★ | Python | ? | NyA |
+| **Ping Pong** | Crypto | TOY | DSA | ★★★★, ★★★★ | Python | ? | NyA |
+| **Joyko** | Crypto | IMP | Demytko | ★★★(★★), ★★★ | Python | ? | NyA |
 
 
 
