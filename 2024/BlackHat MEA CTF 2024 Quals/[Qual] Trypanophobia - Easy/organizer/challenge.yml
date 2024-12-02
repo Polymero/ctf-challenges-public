@@ -1,0 +1,6 @@
+challenge:
+  name: "Trypanophobia"
+  category: "Crypto"
+  difficulty: "Easy"
+  description: "Sit still, okay? It'll be over quick, and furthermore, it's just a lil' prick."
+  flag: "BHFlagY{ONLY_APPLY_THIS_IF_YOUR_CHALLENGE_HAS_STATIC_FLAG_KEEP_THIS_DEFAULT_VALUE_OTHERWISE}"

@@ -1,0 +1,6 @@
+challenge:
+  name: "Cheeky"
+  category: "Crypto"
+  difficulty: "Medium"
+  description: "Just a cheeky lil' challenge for you, that's all ~ !"
+  flag: "BHFlagY{ONLY_APPLY_THIS_IF_YOUR_CHALLENGE_HAS_STATIC_FLAG_KEEP_THIS_DEFAULT_VALUE_OTHERWISE}"

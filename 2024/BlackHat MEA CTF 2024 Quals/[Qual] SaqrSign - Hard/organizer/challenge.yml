@@ -1,0 +1,6 @@
+challenge:
+  name: "SaqrSign"
+  category: "Crypto"
+  difficulty: "Hard"
+  description: "SaqrSign? More liek SuqrSign amirite... Mmh what? Yeah I'll leave the stage now... What does Saqr mean anyway..."
+  flag: "BHFlagY{ONLY_APPLY_THIS_IF_YOUR_CHALLENGE_HAS_STATIC_FLAG_KEEP_THIS_DEFAULT_VALUE_OTHERWISE}"
