@@ -2,6 +2,7 @@
 
 > _"I'm really not great with heights... :("_
 
+```py
 Difficulty = {
     'Label'          : 'Elite',
     'Solves'         : -1,
@@ -32,3 +33,4 @@ Justification = {
 Writeups = {
     ...
 }
+```

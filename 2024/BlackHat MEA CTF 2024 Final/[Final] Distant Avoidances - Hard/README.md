@@ -2,6 +2,7 @@
 
 > _"A challenge so NICE I just had to make it TWICE :^) :^)"_
 
+```py
 Difficulty = {
     'Label'          : 'Hard',
     'Solves'         : -1,
@@ -32,4 +33,4 @@ Justification = {
 Writeups = {
     ...
 }
-
+```

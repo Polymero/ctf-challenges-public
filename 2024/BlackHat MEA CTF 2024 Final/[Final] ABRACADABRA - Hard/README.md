@@ -2,6 +2,7 @@
 
 > _"Wanna see a magic trick?"_
 
+```py
 Difficulty = {
     'Label'          : 'Hard',
     'Solves'         : -1,
@@ -32,3 +33,4 @@ Justification = {
 Writeups = {
     ...
 }
+```

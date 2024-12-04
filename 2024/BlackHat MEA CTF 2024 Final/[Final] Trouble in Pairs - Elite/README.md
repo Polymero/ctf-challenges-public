@@ -2,6 +2,7 @@
 
 > _"Real trouble never comes alone..."_
 
+```py
 Difficulty = {
     'Label'          : 'Elite',
     'Solves'         : -1,
@@ -31,3 +32,4 @@ Justification = {
 Writeups = {
     ...
 }
+```

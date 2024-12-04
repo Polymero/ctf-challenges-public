@@ -2,6 +2,7 @@
 
 > _"I knew LEAFs are a slip hazard this time of year, but I wasn't aware they're also a crypto hazard..."_
 
+```py
 Difficulty = {
     'Label'          : 'Medium',
     'Solves'         : -1,
@@ -31,4 +32,4 @@ Justification = {
 Writeups = {
     ...
 }
-
+```

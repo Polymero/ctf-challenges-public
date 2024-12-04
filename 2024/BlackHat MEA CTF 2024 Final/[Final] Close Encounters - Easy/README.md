@@ -2,6 +2,7 @@
 
 > _"At least strike a t-pose before you die so you can meme forever :^)"_
 
+```py
 Difficulty = {
     'Label'          : 'Easy',
     'Solves'         : -1,
@@ -32,3 +33,4 @@ Justification = {
 Writeups = {
     ...
 }
+```

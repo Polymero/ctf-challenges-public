@@ -2,6 +2,7 @@
 
 > _"Try your luck here, why don't you..."_
 
+```py
 Difficulty = {
     'Label'          : 'Hard',
     'Solves'         : -1,
@@ -31,4 +32,4 @@ Justification = {
 Writeups = {
     ...
 }
-
+```

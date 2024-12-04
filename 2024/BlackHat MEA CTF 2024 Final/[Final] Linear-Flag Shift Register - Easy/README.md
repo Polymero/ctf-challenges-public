@@ -2,6 +2,7 @@
 
 > _"If the air conditioning is on too strong again, hopefully this challenge will help warm you up... :)"_
 
+```py
 Difficulty = {
     'Label'          : 'Easy',
     'Solves'         : -1,
@@ -32,3 +33,4 @@ Justification = {
 Writeups = {
     ...
 }
+```
