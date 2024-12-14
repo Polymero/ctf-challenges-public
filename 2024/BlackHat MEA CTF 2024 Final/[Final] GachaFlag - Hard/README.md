@@ -12,7 +12,13 @@ Difficulty = {
 
 Topics = {
     'Tags'       : ['Python Random Module', 'Rejection Sampling'],
-    'Primitives' : ['Mersenne Twister']
+    'Primitives' : ['Mersenne Twister'],
+    'CWEs'       : {
+        336  : 'Same Seed in Pseudo-Random Number Generator (PRNG)',
+        337  : 'Predictable Seed in Pseudo-Random Number Generator (PRNG)',
+        338  : 'Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)',
+        1241 : 'Use of Predictable Algorithm in Random Number Generator'
+    }
 }
 
 Dockers = {

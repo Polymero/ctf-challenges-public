@@ -12,7 +12,9 @@ Difficulty = {
 
 Topics = {
     'Tags'       : ['Kleptography', 'Malicious Implementation'],
-    'Primitives' : ['ElGamel Signatures', 'SETUP']
+    'Primitives' : ['ElGamel Signatures', 'SETUP'],
+    'CWEs'       : {
+        510 : 'Trapdoor'
 }
 
 Dockers = {

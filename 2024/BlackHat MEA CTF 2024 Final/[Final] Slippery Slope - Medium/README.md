@@ -12,7 +12,11 @@ Difficulty = {
 
 Topics = {
     'Tags'       : ['Key Escrow', 'Law Enforcement Accessability Field', 'Linear Algebra'],
-    'Primitives' : ['AES-CTR', 'DHKE']
+    'Primitives' : ['AES-CTR', 'DHKE'],
+    'CWEs'       : {
+        328 : 'Use of Weak Hash',
+        512 : 'Spyware'
+    }
 }
 
 Dockers = {

@@ -12,7 +12,10 @@ Difficulty = {
 
 Topics = {
     'Tags'       : ['ECC', 'Ladder', 'Quadratic Twists'],
-    'Primitives' : ['Demytko']
+    'Primitives' : ['Demytko'],
+    'CWEs'       : {
+        326 : 'Inadequate Encryption Strength'
+    }
 }
 
 Dockers = {

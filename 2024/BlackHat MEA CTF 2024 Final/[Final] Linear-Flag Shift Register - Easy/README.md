@@ -12,7 +12,12 @@ Difficulty = {
 
 Topics = {
     'Tags'       : ['Unknown Feedback Polynomial'],
-    'Primitives' : ['Linear-Feedback Shift Register']
+    'Primitives' : ['Linear-Feedback Shift Register'],
+    'CWEs'       : {
+        335  : 'Incorrect Usage of Seeds in Pseudo-Random Number Generator (PRNG)',
+        337  : 'Predictable Seed in Pseudo-Random Number Generator (PRNG)',
+        338  : 'Use of Cryptographically Weak Pseudo-Random Number Generator (PRNG)'
+    }
 }
 
 Dockers = {

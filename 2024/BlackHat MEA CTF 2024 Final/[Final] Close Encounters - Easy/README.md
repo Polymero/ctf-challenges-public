@@ -12,7 +12,11 @@ Difficulty = {
 
 Topics = {
     'Tags'       : ['Reduced Round', 'Polynomials'],
-    'Primitives' : ['MiMC']
+    'Primitives' : ['MiMC'],
+    'CWEs'       : {
+        326  : 'Inadequate Encryption Strength',
+        1240 : 'Use of a Cryptographic Primitive with a Risky Implementation'
+    }
 }
 
 Dockers = {

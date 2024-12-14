@@ -12,7 +12,12 @@ Difficulty = {
 
 Topics = {
     'Tags'       : ['Zero-Knowledge Proof', 'Malleable Encryption', 'Fiat-Shamir Transformation'],
-    'Primitives' : ['ElGamel Encryption', 'Schnorr Signatures']
+    'Primitives' : ['ElGamel Encryption', 'Schnorr Signatures'],
+    'CWEs'       : {
+        327 : 'Use of a Broken or Risky Cryptographic Algorithm',
+        358 : 'Improperly Implemented Security Check for Standard',
+        407 : 'Inefficient Algorithmic Complexity'
+    }
 }
 
 Dockers = {
